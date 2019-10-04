@@ -29,7 +29,8 @@ nota5 = Math.trunc(resto / 5);
 nota1 = resto % 5;
 
 //Exibe os resultados
-alert("Notas de 100: " + nota100 + "\n" +
+alert("Valor inicial: " + valor + "\n" + "\n" +
+    "Notas de 100: " + nota100 + "\n" +
     "Notas de 50: " + nota50 + "\n" +
     "Notas de 10: " + nota10 + "\n" +
     "Notas de 5: " + nota5 + "\n" +
